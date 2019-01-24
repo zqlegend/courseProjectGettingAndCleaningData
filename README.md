@@ -1,15 +1,4 @@
----
-title: "Read Me"
-author: "Q. Zhou"
-date: "2019/1/24"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-Here, in this repository, contains the data for the course project of "Getting And Cleaning Data" course on Coursera. Complete raw data set can be found in `"UCI HAR Dataset.zip"` file and corresponding unzipped directory.
+Here, in this repository, contains the data for the course project of "Getting And Cleaning Data" course on Coursera. Complete raw data set can be found in downloaded `"UCI HAR Dataset.zip"` file and corresponding unzipped directory.
 
 `"run_analysis.R"` script has been used to approach the required tidy data set contained in `"tidyData.txt"` from the raw data. It has followed the procedure as described below:
 
